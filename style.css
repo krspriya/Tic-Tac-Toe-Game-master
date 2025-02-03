@@ -98,10 +98,10 @@
 
 
 .imgbox{
-    display: none; /* Hide by default */
+    display: none; 
     text-align: center;
     position: absolute;
-    top: 50%; /* Adjust vertical position */
+    top: 50%;
     transform: translateY(-50%);
    
 }
